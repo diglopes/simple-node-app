@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "Just a simple app",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diglopes/simple-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diglopes/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/diglopes/simple-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
